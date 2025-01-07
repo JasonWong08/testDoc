@@ -1,0 +1,13 @@
+site_name: Doc Center
+theme: readthedocs
+
+repo_url: https://github.com/JasonWong08/NybbleQdocs/
+edit_uri: edit/main/docs
+extra_css:
+  - extra.css
+  
+nav:
+  - Home: index.md
+  - 1 Debug:
+    - Desktop App: desktop-app/debugger.md
+    
