@@ -1,7 +1,7 @@
 site_name: Doc Center
 theme: readthedocs
 
-repo_url: https://github.com/JasonWong08/NybbleQdocs/
+repo_url: https://github.com/JasonWong08/testDoc
 edit_uri: edit/main/docs
 extra_css:
   - extra.css

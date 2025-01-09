@@ -7,7 +7,9 @@
 
 From version **1.2.1**, the Petoi Desktop App has included a new module, Debugger. This module provides convenient tools to fix your robot's frequent problems.&#x20;
 
-<figure><img src="../../assets/desktop_main_page.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../assets/desktop_main_page.png" alt="UI main page"><figcaption></figcaption></figure>
+
+test abcdefgh
 
 ## Reset voice module <a href="#download-the-latest-version-of-the-petoi-desktop-app" id="download-the-latest-version-of-the-petoi-desktop-app"></a>
 
